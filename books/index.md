@@ -5,6 +5,7 @@ Books
 
 * [7回読み勉強法](study/7回読み勉強法.md)
 * [超・自習法](study/超自習法.md)
+* [FPS理論 あなたが伸びる学び型](study/FPS理論あなたが伸びる学び型.md)
 
 
 ## Others
