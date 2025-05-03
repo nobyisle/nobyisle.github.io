@@ -1,9 +1,10 @@
 Books
-=====
+===
 
 ## Study
 
 * [7回読み勉強法](study/7回読み勉強法.md)
+* [超・自習法](study/超自習法.md)
 
 
 ## Others
