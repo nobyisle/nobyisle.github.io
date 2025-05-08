@@ -1,3 +1,4 @@
 INDEX
+=====
 
-* [Books](/books/index.md)
+* [Books](/books/)
