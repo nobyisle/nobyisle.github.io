@@ -1,6 +1,6 @@
 ---
 ---
-<link rel="stylesheet" href="assets/css/my-style.css">
+<link rel="stylesheet" href="/assets/css/my-style.css">
 
 [Home](/)
 
