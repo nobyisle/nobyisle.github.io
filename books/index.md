@@ -11,3 +11,4 @@ Books
 ## Others
 
 * [メモの魔力](others/メモの魔力.md)
+* [はじめる力](study/はじめる力.md)
