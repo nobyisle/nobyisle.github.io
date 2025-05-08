@@ -1,4 +1,4 @@
-[Books](/books/)
+[Home](/) > [Books](/books/)
 
 FPS理論 あなたが伸びる学び型
 ===
