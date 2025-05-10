@@ -2,7 +2,7 @@
 ---
 <link rel="stylesheet" href="/assets/css/my-style.css">
 
-[Home](/) > [Books](/books/)
+[Home](/) > [Reading notes](/reading_notes/)
 
 @古野俊幸
 

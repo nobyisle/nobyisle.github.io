@@ -5,4 +5,4 @@
 INDEX
 =====
 
-* [Books](/books/)
+* [Reading notes](/reading_notes/)

@@ -4,7 +4,7 @@
 
 [Home](/)
 
-Books
+Reading notes
 ===
 
 ## Study
