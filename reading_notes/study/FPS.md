@@ -1,6 +1,4 @@
----
----
-<link rel="stylesheet" href="/assets/css/my-style.css">
+<style>section h1 { color: #069; }</style>
 
 [Home](/) > [Reading notes](/reading_notes/)
 
