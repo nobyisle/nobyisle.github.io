@@ -1,1 +1,0 @@
-# nobyisle.github.io
