@@ -2,7 +2,7 @@
 
 [Home](/) > [Reading notes](/reading_notes/)
 
-@古野俊幸
+著：古野俊幸
 
 FPS理論 あなたが伸びる学び型
 ===
