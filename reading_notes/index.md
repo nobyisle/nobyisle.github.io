@@ -16,6 +16,10 @@ Reading notes
 * [FPS理論 あなたが伸びる学び型（古野俊幸）](study/FPS.md)
 * [超・自習法（スコット・H・ヤング）](study/超自習法.md)
 
+## Technology
+
+* [生成AIで世界はこう変わる（今井翔太）](technology/生成AIで世界はこう変わる.md)
+
 ## Others
 
 * [０秒で動け（伊藤羊一）](others/０秒で動け.md)
