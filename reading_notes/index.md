@@ -5,6 +5,11 @@
 Reading notes
 ===
 
+## Business
+
+* [The Goal（エリヤフ・ゴールドラット）](business/TheGoal.md)
+
+
 ## Note
 
 * [すべてはノートからはじまる（倉下忠憲）](note/すべてはノートからはじまる.md)
