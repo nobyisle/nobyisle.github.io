@@ -10,11 +10,14 @@ Reading notes
 * [The Goal（エリヤフ・ゴールドラット）](business/TheGoal.md)
 * [第4の波（大前 研一）](business/第4の波.md)
 
-
 ## Note
 
 * [すべてはノートからはじまる（倉下忠憲）](note/すべてはノートからはじまる.md)
 * [メモの魔力（前田裕二）](note/メモの魔力.md)
+
+## Novel
+
+* [サーキット・スイッチャー（安野貴博）](novel/サーキット・スイッチャー.md)
 
 ## Study
 
