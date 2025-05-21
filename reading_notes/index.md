@@ -8,6 +8,7 @@ Reading notes
 ## Business
 
 * [The Goal（エリヤフ・ゴールドラット）](business/TheGoal.md)
+* [第4の波（大前 研一）](business/第4の波.md)
 
 
 ## Note
