@@ -8,7 +8,11 @@ Reading notes
 ## Business
 
 * [The Goal（エリヤフ・ゴールドラット）](business/TheGoal.md)
-* [第4の波（大前 研一）](business/第4の波.md)
+* [第4の波（大前研一）](business/第4の波.md)
+
+## Life
+
+* [やりたいことは全部やれ!（大前研一）](life/やりたいことは全部やれ.md)
 
 ## Note
 
