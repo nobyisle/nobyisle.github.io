@@ -35,6 +35,7 @@ Reading notes
 
 ## Technology
 
+* [メタバース さよならアトムの時代（加藤直人）](technology/メタバースさよならアトムの時代.md)
 * [生成AIで世界はこう変わる（今井翔太）](technology/生成AIで世界はこう変わる.md)
 
 ## Others
