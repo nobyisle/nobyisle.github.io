@@ -48,8 +48,8 @@ Reading notes
 * [生成AIで世界はこう変わる（今井翔太）](technology/生成AIで世界はこう変わる.md)
 
 ## Travel
-* [ひとりたび1年生（たかぎなおこ）](travel/ひとりたび_1.md)
-* [ひとりたび２年生（たかぎなおこ）](travel/ひとりたび_2.md)
+* [ひとりたび1年生（たかぎなおこ）](travel/hitoritabi1.md)
+* [ひとりたび２年生（たかぎなおこ）](travel/hitoritabi2.md)
 
 ## Others
 * [パーティーが終わって、中年が始まる（pha）](others/パーティーが終わって、中年が始まる.md)
