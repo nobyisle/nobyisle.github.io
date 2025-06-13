@@ -6,8 +6,8 @@ Reading notes
 ===
 
 ## Business
+* [なぜ、あなたの仕事は終わらないのか（中島聡）](business/nazeanatanoshigotohaowaranainoka.md)
 * [The Goal（エリヤフ・ゴールドラット）](business/TheGoal.md)
-* [なぜ、あなたの仕事は終わらないのか（中島聡）](business/なぜあなたの仕事は終わらないのか.md)
 * [第4の波（大前研一）](business/第4の波.md)
 
 ## Life
