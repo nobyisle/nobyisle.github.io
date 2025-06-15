@@ -14,6 +14,7 @@ Reading notes
 * [０秒で動け（伊藤羊一）](life/０秒で動け.md)
 * [7つの習慣（スティーブン・R.コヴィー）](life/7tsunosyukan.md)
 * [人生を変えるモーニングメソッド（ハル・エルロッド）](life/MorningMethod.md)
+* [やり抜く人の9つの習慣（ハイディ・グラント・ハルバーソン）](life/yarinukuhitono9tsunosyukan.md)
 * [エッセンシャル思考（グレッグ マキューン）](life/エッセンシャル思考.md)
 * [ストレスフリー超大全（樺沢紫苑）](life/ストレスフリー超大全.md)
 * [はじめる力（安野貴博）](life/はじめる力.md)
