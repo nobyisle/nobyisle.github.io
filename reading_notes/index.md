@@ -13,6 +13,7 @@ Reading notes
 ## Life
 * [０秒で動け（伊藤羊一）](life/０秒で動け.md)
 * [7つの習慣（スティーブン・R.コヴィー）](life/7tsunosyukan.md)
+* [幸福優位7つの法則（ショーン・エイカー）](life/koufukuyuui7tsunohousoku.md)
 * [人生を変えるモーニングメソッド（ハル・エルロッド）](life/MorningMethod.md)
 * [やり抜く人の9つの習慣（ハイディ・グラント・ハルバーソン）](life/yarinukuhitono9tsunosyukan.md)
 * [エッセンシャル思考（グレッグ マキューン）](life/エッセンシャル思考.md)
