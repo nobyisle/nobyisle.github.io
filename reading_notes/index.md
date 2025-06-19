@@ -59,5 +59,6 @@ Reading notes
 * [ひとりたび２年生（たかぎなおこ）](travel/hitoritabi2.md)
 
 ## Others
+* [2030年 すべてが「加速」する世界に備えよ（ピーター・ディアマンディス）](others/2030_subetegakasokusurusekainisonaeyo.md)
 * [パーティーが終わって、中年が始まる（pha）](others/パーティーが終わって、中年が始まる.md)
 * [数学文章作法（結城浩）](others/数学文章作法.md)
