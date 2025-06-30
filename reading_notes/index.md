@@ -63,4 +63,5 @@ Reading notes
 ## Others
 * [2030年 すべてが「加速」する世界に備えよ（ピーター・ディアマンディス）](others/2030_subetegakasokusurusekainisonaeyo.md)
 * [パーティーが終わって、中年が始まる（pha）](others/パーティーが終わって、中年が始まる.md)
+* [スマホ時代の「眼」メンテナンス（栗原大智）](others/眼メンテナンス.md)
 * [数学文章作法（結城浩）](others/数学文章作法.md)
