@@ -38,9 +38,10 @@ Reading notes
 * [松岡まどか、起業します（安野貴博）](novel/松岡まどか、起業します.md)
 
 ## Reading
+* [「読む」だけで終わりにしない読書術（本要約チャンネル）](reading/yomudakedeowarinishinai.md)
 * [ややこしい本を読む技術（吉岡友治）](reading/ややこしい本を読む技術.md)
 * [自分を変える読書術（堀紘一）](reading/自分を変える読書術.md)
-* [「読む」だけで終わりにしない読書術（本要約チャンネル）](reading/yomudakedeowarinishinai.md)
+* [読書脳（樺沢紫苑）](reading/読書脳.md)
 
 ## Study
 * [7回読み勉強法（山口真由）](study/7回読み勉強法.md)
