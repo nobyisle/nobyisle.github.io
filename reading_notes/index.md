@@ -55,6 +55,7 @@ Reading notes
 ## Technology
 * [＃100日チャレンジ（大塚あみ）](technology/100nichi_challenge.md)
 * [AI失業（井上智洋）](technology/AI失業.md)
+* [テクノロジーが予測する未来（伊藤穰一）](technology/テクノロジーが予測する未来.md)
 * [メタバース さよならアトムの時代（加藤直人）](technology/メタバースさよならアトムの時代.md)
 * [メタバースとWeb3（國光 宏尚）](technology/メタバースとWeb3.md)
 * [生成AIで世界はこう変わる（今井翔太）](technology/生成AIで世界はこう変わる.md)
