@@ -13,7 +13,7 @@ Reading notes
 * [第4の波（大前研一）](business/第4の波.md)
 
 ## Cat
-* [ネコは(ほぼ)液体である（服部円）](cat/ネコは(ほぼ)液体である.md)
+* [ネコは(ほぼ)液体である（服部円）](cat/nekowahoboekitaidearu.md)
 
 ## Habit
 * [０秒で動け（伊藤羊一）](habit/０秒で動け.md)
