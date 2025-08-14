@@ -12,6 +12,9 @@ Reading notes
 * [はじめる力（安野貴博）](business/はじめる力.md)
 * [第4の波（大前研一）](business/第4の波.md)
 
+## Cat
+* [ネコは(ほぼ)液体である（服部円）](cat/ネコは(ほぼ)液体である.md)
+
 ## Habit
 * [０秒で動け（伊藤羊一）](habit/０秒で動け.md)
 * [7つの習慣（スティーブン・R.コヴィー）](habit/7tsunosyukan.md)
