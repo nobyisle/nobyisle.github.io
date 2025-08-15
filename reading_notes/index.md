@@ -14,6 +14,7 @@ Reading notes
 
 ## Cat
 * [ネコは(ほぼ)液体である（服部円）](cat/nekowahoboekitaidearu.md)
+* [Nyaton ニャートン ネコの科学（ニュートンプレス）](cat/nyaton.md)
 
 ## Habit
 * [０秒で動け（伊藤羊一）](habit/０秒で動け.md)
