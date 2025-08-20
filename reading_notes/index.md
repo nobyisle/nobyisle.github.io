@@ -66,6 +66,7 @@ Reading notes
 * [メタバース進化論（バーチャル美少女ねむ）](technology/metaverse_shinkaron.md)
 * [メタバースとWeb3（國光宏尚）](technology/metaverse_web3.md)
 * [テクノロジーが予測する未来（伊藤穰一）](technology/technology_ga_yosokusurumirai.md)
+* [ザ・メタバース（マシュー・ボール）](technology/the-metaverse.md)
 * [マーケ領域で実践されている生成系AIの技術（（株）ピネアル CTO 藤田拳）](technology/マーケ領域で実践されている生成系AIの技術.md)
 * [メタバース さよならアトムの時代（加藤直人）](technology/メタバースさよならアトムの時代.md)
 * [生成AIで世界はこう変わる（今井翔太）](technology/生成AIで世界はこう変わる.md)
