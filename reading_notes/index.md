@@ -35,6 +35,12 @@ Reading notes
 * [世界を変えたいなら一度"武器"を捨ててしまおう（奥山真司）](life/世界を変えたいなら一度武器を捨ててしまおう.md)
 * [腸がすべて（フランク・ラポルト＝アダムスキー）](life/腸がすべて.md)
 
+## Metaverse
+* [メタバース進化論（バーチャル美少女ねむ）](technology/metaverse_shinkaron.md)
+* [メタバースとWeb3（國光宏尚）](technology/metaverse_web3.md)
+* [ザ・メタバース（マシュー・ボール）](technology/the-metaverse.md)
+* [メタバース さよならアトムの時代（加藤直人）](technology/メタバースさよならアトムの時代.md)
+
 ## Note
 * [すべてはノートからはじまる（倉下忠憲）](note/すべてはノートからはじまる.md)
 * [メモの魔力（前田裕二）](note/メモの魔力.md)
@@ -65,12 +71,8 @@ Reading notes
 ## Technology
 * [＃100日チャレンジ（大塚あみ）](technology/100nichi_challenge.md)
 * [AI失業（井上智洋）](technology/AI失業.md)
-* [メタバース進化論（バーチャル美少女ねむ）](technology/metaverse_shinkaron.md)
-* [メタバースとWeb3（國光宏尚）](technology/metaverse_web3.md)
 * [テクノロジーが予測する未来（伊藤穰一）](technology/technology_ga_yosokusurumirai.md)
-* [ザ・メタバース（マシュー・ボール）](technology/the-metaverse.md)
 * [マーケ領域で実践されている生成系AIの技術（（株）ピネアル CTO 藤田拳）](technology/マーケ領域で実践されている生成系AIの技術.md)
-* [メタバース さよならアトムの時代（加藤直人）](technology/メタバースさよならアトムの時代.md)
 * [生成AIで世界はこう変わる（今井翔太）](technology/生成AIで世界はこう変わる.md)
 
 ## Travel
