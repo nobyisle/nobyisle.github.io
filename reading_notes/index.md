@@ -27,9 +27,9 @@ Reading notes
 * [ストレスフリー超大全（樺沢紫苑）](habit/ストレスフリー超大全.md)
 
 ## Health
-* [スマホ時代の「眼」メンテナンス（栗原大智）](others/眼メンテナンス.md)
-* [休養学: あなたを疲れから救う（片野秀樹）](life/休養学.md)
-* [腸がすべて（フランク・ラポルト＝アダムスキー）](life/腸がすべて.md)
+* [スマホ時代の「眼」メンテナンス（栗原大智）](health/眼メンテナンス.md)
+* [休養学: あなたを疲れから救う（片野秀樹）](health/休養学.md)
+* [腸がすべて（フランク・ラポルト＝アダムスキー）](health/腸がすべて.md)
 
 ## Life
 * [エニシング・ユー・ウォント（デレク・シヴァーズ）](life/any-thing-you-want.md)
@@ -40,10 +40,10 @@ Reading notes
 * [世界を変えたいなら一度"武器"を捨ててしまおう（奥山真司）](life/世界を変えたいなら一度武器を捨ててしまおう.md)
 
 ## Metaverse
-* [メタバース進化論（バーチャル美少女ねむ）](technology/metaverse_shinkaron.md)
-* [メタバースとWeb3（國光宏尚）](technology/metaverse_web3.md)
-* [ザ・メタバース（マシュー・ボール）](technology/the-metaverse.md)
-* [メタバース さよならアトムの時代（加藤直人）](technology/メタバースさよならアトムの時代.md)
+* [メタバース進化論（バーチャル美少女ねむ）](metaverse/metaverse_shinkaron.md)
+* [メタバースとWeb3（國光宏尚）](metaverse/metaverse_web3.md)
+* [ザ・メタバース（マシュー・ボール）](metaverse/the-metaverse.md)
+* [メタバース さよならアトムの時代（加藤直人）](metaverse/メタバースさよならアトムの時代.md)
 
 ## Note
 * [すべてはノートからはじまる（倉下忠憲）](note/すべてはノートからはじまる.md)
