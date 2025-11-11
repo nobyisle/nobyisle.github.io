@@ -24,6 +24,7 @@ Reading notes
 * [人生を変えるモーニングメソッド（ハル・エルロッド）](habit/MorningMethod.md)
 * [やり抜く人の9つの習慣（ハイディ・グラント・ハルバーソン）](habit/yarinukuhitono9tsunosyukan.md)
 * [エッセンシャル思考（グレッグ マキューン）](habit/エッセンシャル思考.md)
+* [科学的に証明された すごい習慣大百科（堀田秀吾）](habit/すごい習慣大百科.md)
 * [ストレスフリー超大全（樺沢紫苑）](habit/ストレスフリー超大全.md)
 
 ## Health
